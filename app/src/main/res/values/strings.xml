@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">HaVagas</string>
+    <string name="nameHint">Insira seu nome completo</string>
+    <string name="emailHint">Insira seu e-mail</string>
+    <string name="receiveEmailsHint">Receber e-mails com atualizações</string>
+    <string name="saveBtnLabel">Salvar</string>
+    <string name="clearBtnLabel">Limpar</string>
+    <string name="mainTitle">HáVagas</string>
 </resources>
