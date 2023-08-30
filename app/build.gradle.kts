@@ -7,6 +7,7 @@ android {
     namespace = "com.laura.havagas"
     compileSdk = 33
 
+
     defaultConfig {
         applicationId = "com.laura.havagas"
         minSdk = 24
@@ -33,6 +34,15 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+
+    viewBinding {
+        enable = true
+    }
+
+    dataBinding {
+        enable = true
+    }
+
 }
 
 dependencies {
